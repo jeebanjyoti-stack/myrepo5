@@ -1,0 +1,8 @@
+C:\Users\RAJA\Desktop\New folder\goto\goto\bin\Debug\@goto.exe.config
+C:\Users\RAJA\Desktop\New folder\goto\goto\bin\Debug\@goto.exe
+C:\Users\RAJA\Desktop\New folder\goto\goto\bin\Debug\@goto.pdb
+C:\Users\RAJA\Desktop\New folder\goto\goto\obj\Debug\goto.csproj.AssemblyReference.cache
+C:\Users\RAJA\Desktop\New folder\goto\goto\obj\Debug\goto.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAJA\Desktop\New folder\goto\goto\obj\Debug\goto.csproj.CoreCompileInputs.cache
+C:\Users\RAJA\Desktop\New folder\goto\goto\obj\Debug\@goto.exe
+C:\Users\RAJA\Desktop\New folder\goto\goto\obj\Debug\@goto.pdb
